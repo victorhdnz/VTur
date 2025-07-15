@@ -1,7 +1,7 @@
 <h1 align="center">Página de receita</h1>
 
 <p align="center">
-  <img alt="capa projeto de receita" src=".github/cover.png"
+  <img alt="capa projeto de receita" src=".github/Thumbnail.png"
   width="100%">
 </p>
 
