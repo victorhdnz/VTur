@@ -19,4 +19,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A página Vtur tem como objetivo apresentar informações sobre um destino turístico de forma clara e atrativa.
 
-[Acesse a versão final do projeto, online](https://victorhdnz.github.io/Pagina-receita/)
+[Acesse a versão final do projeto, online](https://victorhdnz.github.io/VTur/)
